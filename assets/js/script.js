@@ -18,5 +18,15 @@ var myQuestions = [
 			c: 'Green'
 		},
 		correctAnswer: 'c'
+	},
+    {
+		question: " 6 x 3 =?",
+		answers: {
+			a: '18',
+			b: '188',
+			c: '1888'
+		},
+		correctAnswer: 'a'
 	}
+
 ];
