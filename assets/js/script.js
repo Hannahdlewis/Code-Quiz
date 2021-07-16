@@ -33,7 +33,7 @@ var myQuestions = [
 
 ];
 
-// 
+// container that populates in window
 
 function showQuestions(questions, quizContainer){
 	// we'll need a place to store the output and the answer choices
