@@ -4,6 +4,8 @@ Usage
 
 Installation
 
+No installation is needed for this web application.
+
 
 Access to web application
 
