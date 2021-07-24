@@ -8,6 +8,6 @@ Installation
 Access to web application
 
 
-Contributin
+Contributing
 
 
