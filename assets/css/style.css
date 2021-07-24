@@ -1,0 +1,11 @@
+:root {
+    background-color: aquamarine(purple,turquoise,grey);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+
+}
