@@ -53,3 +53,7 @@ justify-center {
 .hidden {
     display: none;
 }
+
+.btn {
+    font-size: 2.4rem;
+}
