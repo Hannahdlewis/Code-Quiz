@@ -12,6 +12,6 @@ Contributing
 
 Support
 
-If you have any questions, or would like to collaborate on a project, 
+If you have any questions, or would like to collaborate on a project, please feel free to email me directly at hannahdlewis07@gmail.com
 
 
