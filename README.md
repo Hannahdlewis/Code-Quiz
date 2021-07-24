@@ -3,7 +3,7 @@ Javascript (JS) timed quiz is a web applicatin, that was created from scratch. T
 
 ## Usage
 
-This web application enables users to take a timed code quiz. The user is presented with a series of multiple choice questins, once all questions are answered, user will they are able to 
+This web application enables users to take a timed code quiz. The user is presented with a series of multiple choice questins, once all questions are answered, user will be able to see how thier scores compare to others that have taken the same quiz. 
 
 ## Installation
 
