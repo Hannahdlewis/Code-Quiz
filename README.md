@@ -3,6 +3,8 @@ Javascript (JS) timed quiz is a web applicatin, that was created from scratch. T
 
 ## Usage
 
+This web application enables users to 
+
 ## Installation
 
 No installation is needed for this web application.
