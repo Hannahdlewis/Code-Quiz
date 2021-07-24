@@ -12,6 +12,6 @@ Contributing
 
 Support
 
-If you have any questions
+If you have any questions, or would like to collaborate on a project, 
 
 
