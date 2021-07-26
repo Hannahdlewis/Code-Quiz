@@ -10,7 +10,7 @@ var timer;
 var timerCount;
 var availQuestions = [];
 var currentQuestionIndex = 0;
-
+var score = 0;
 var initials;
 var highScore;
 
@@ -43,6 +43,6 @@ function showQuestion(question) {
 
 function resetContainer() {
 	while (answerBtnE1.firstChild) {
-		
+
 	}
 }
