@@ -1,7 +1,7 @@
 var startButton = document.getElementById('start-btn')
 var scoreButton = document.getElementById('high-scores')
 var questionBoxE1 = document.getElementById('question-box')
-var startbutton = document.getElementById('question')
+var questionE1 = document.getElementById('question')
 var startbutton = document.getElementById('answer-choice')
 var startbutton = document.getElementById('time-left')
 
