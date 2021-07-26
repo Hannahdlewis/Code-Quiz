@@ -31,5 +31,11 @@ function setNextQuestion() {
 }
 
 function showQuestion(question) {
-	questionE1
+	questionE1.innerText = question.question.question.answers.forEach(answer => {
+		var button = document.createElement('button')button.innerText = answer.textbutton.classList.add('btn')
+	if (answer.correct) {
+		button.dataset.correct = answer.correct
+	}
+	
+	})
 }
