@@ -9,4 +9,5 @@ var isWin = false;
 var timer;
 var timerCount;
 var availQuestions = [];
+var currentQuestionIndex = 0;
 
