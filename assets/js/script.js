@@ -24,3 +24,8 @@ function startGame() {
 	timerCount = 30;
 	startTimer()	
 }
+
+function setNextQuestion() {
+	resetContainer()
+	showQuestion(availQuestions[currentQuestionIndex])
+}
