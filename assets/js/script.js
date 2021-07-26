@@ -40,3 +40,9 @@ function showQuestion(question) {
 	answerBtnE1.appendChild(button)
 	})
 }
+
+function resetContainer() {
+	while (answerBtnE1.firstChild) {
+		
+	}
+}
