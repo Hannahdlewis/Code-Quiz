@@ -20,5 +20,6 @@ function startGame() {
 	availQuestions = questions.sort(() => Math.random() - .5)
 	currentQuestionIndex = 0
 	questionBoxE1.classList.remove('hide')
+	setNextQuestion()
 	
 }
