@@ -29,3 +29,7 @@ function setNextQuestion() {
 	resetContainer()
 	showQuestion(availQuestions[currentQuestionIndex])
 }
+
+function showQuestion(question) {
+	questionE1
+}
