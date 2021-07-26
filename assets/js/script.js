@@ -43,6 +43,6 @@ function showQuestion(question) {
 
 function resetContainer() {
 	while (answerBtnE1.firstChild) {
-
+	answerBtnE1.removeChild(answerBtnE1.firstchild)
 	}
 }
