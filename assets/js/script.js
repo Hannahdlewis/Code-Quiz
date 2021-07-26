@@ -3,7 +3,7 @@ var scoreButton = document.getElementById('high-scores')
 var questionBoxE1 = document.getElementById('question-box')
 var questionE1 = document.getElementById('question')
 var answerBtnE1 = document.getElementById('answer-choice')
-var startbutton = document.getElementById('time-left')
+var timerDisplay = document.getElementById('time-left')
 
 var isWin = false;
 var timer;
