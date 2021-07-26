@@ -16,4 +16,6 @@ var highScore;
 
 function startGame() {
 	isWin = false
+	startButton.classList.add('hide')
+	
 }
