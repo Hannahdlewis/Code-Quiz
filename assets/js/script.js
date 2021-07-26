@@ -22,7 +22,5 @@ function startGame() {
 	questionBoxE1.classList.remove('hide')
 	setNextQuestion()
 	timerCount = 30;
-	startTimer()
-	
-
+	startTimer()	
 }
