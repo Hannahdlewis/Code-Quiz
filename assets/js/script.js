@@ -18,4 +18,6 @@ function startGame() {
 	isWin = false
 	startButton.classList.add('hide')
 	availQuestions = questions.sort(() => Math.random() - .5)
+	currentQuestionIndex = 0
+	
 }
