@@ -1,4 +1,4 @@
-var startbutton = document.getElementById('start-btn')
+var startButton = document.getElementById('start-btn')
 var startbutton = document.getElementById('start-btn')
 var startbutton = document.getElementById('start-btn')
 var startbutton = document.getElementById('start-btn')
