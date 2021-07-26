@@ -12,3 +12,4 @@ var availQuestions = [];
 var currentQuestionIndex = 0;
 
 var initials;
+var highScore;
