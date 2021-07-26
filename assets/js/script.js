@@ -13,3 +13,7 @@ var currentQuestionIndex = 0;
 
 var initials;
 var highScore;
+
+function startGame() {
+	isWin = false
+}
