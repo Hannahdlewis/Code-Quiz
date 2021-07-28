@@ -217,7 +217,7 @@ currentQuestion.choices.forEach(function(choice, i){
 // function whihc helps eiuther hide or display a certain screen
 function screenChange(x){
     // checks if classname is visible
-    if(x.className === 'visible'){
+    if(className === 'visible'){
         // sets attributes to hide screen
         x.setAttribute('style', 'display: none');
         x.setAttribute('class', 'hidden');
