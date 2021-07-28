@@ -255,7 +255,7 @@
     margin: 0;
     padding: 0.5rem 0;
   }
-
+/*  */
   *,
 *::before,
 *::after {
@@ -265,7 +265,7 @@
 body {
   display: flexbox;
   font-family: sans-serif;
-  background-color: #c7d5e4;
+  background-color: #76d2df;
 }
 
 header {
@@ -300,7 +300,7 @@ header #timer {
 #start-screen button {
   font-size: 20px;
   color: #c7d5e4;
-  background-color: #088138;
+  background-color: #413b8f;
   margin: 0;
   position: absolute;
   margin-top: 15px;
@@ -325,7 +325,7 @@ header #timer {
   display: flex;
   font-size: 20px;
   color: #c7d5e4;
-  background-color: #088138;
+  background-color: #130f46;
   position: relative;
   margin-top: 15px;
 
@@ -359,7 +359,7 @@ header #timer {
 
 .credentials button {
   color: #c7d5e4;
-  background-color: #088138;
+  background-color: #413b8f;
 }
 
 .highscore-page {
@@ -391,15 +391,15 @@ header #timer {
 .highscore-page button {
   font-size: 15px;
   color: #c7d5e4;
-  background-color: #088138;
+  background-color: #413b8f;
   margin-left: 10px;
 }
 
 a {
-  color: #088138;
+  color: #241c69;
   text-decoration: none;
 }
 
 a:link::before,
 a:link::after {
-  color: #088138;
+  color: #2b2d7e;
